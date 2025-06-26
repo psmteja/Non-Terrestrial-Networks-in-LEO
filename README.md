@@ -48,5 +48,3 @@ For each time-bucket, the following analyses are performed:
   - For each bucket, it constructs the graph and identifies connected components.
   - By comparing components from one bucket to the next, it calculates the "churn rate," indicating how many components changed or were reconfigured.
 
-## Summary
-This code systematically analyzes satellite data across time-buckets, focusing on connectivity, topology, and temporal properties. It constructs an adjacency matrix for each bucket, computes various graph metrics, and prepares for deeper temporal analyses to understand the dynamics of satellite networks over time.
