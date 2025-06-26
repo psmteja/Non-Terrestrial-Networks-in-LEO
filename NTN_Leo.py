@@ -81,7 +81,7 @@ def tle_to_eci(satellite, time):
 
 
 # Load TLE data from the specified text file
-filename = 'leo_data.txt'
+filename = 'datasets/leo_data.txt'
 tle_data = load_tle_data(filename)
 
 # Create time-buckets
