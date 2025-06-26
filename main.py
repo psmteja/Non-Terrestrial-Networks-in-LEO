@@ -30,7 +30,7 @@ def load_tle_data(filename):
 
 
 # Load TLE data from the specified text file
-filename = 'leo_data.txt'  # Replace with your actual file path
+filename = 'datasets/leo_data.txt'  # Replace with your actual file path
 tle_data = load_tle_data(filename)
 
 # Check if TLE data is loaded correctly
