@@ -95,9 +95,8 @@ Below is the interpretation of each section of your logs.
 
 ---
 
-==============================
+
 PAPER 5-NODE EXAMPLE (APSP)
-==============================
 
 1->2: (start=3, finish=4, pred=1) path=1->2  
 1->3: (start=3, finish=6, pred=2) path=1->2->3  
