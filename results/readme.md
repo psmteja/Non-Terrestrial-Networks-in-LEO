@@ -80,23 +80,11 @@ The APSP output stores for each pair `(src, dst)`:
 
 The algorithm internally generates many feasible contact intervals; then it selects the one with **minimum duration** as the shortest-time path.
 
-### 3.3 Why APSP becomes expensive
-Paper time complexity:
-\[
-O(M^2 n^3)
-\]
-So for large `n`, APSP becomes computationally expensive on CPU.
-
----
-
-## 4) What the console logs mean (your output)
-
-Below is the interpretation of each section of your logs.
 
 ---
 
 
-PAPER 5-NODE EXAMPLE (APSP)
+###  PAPER 5-NODE EXAMPLE (APSP)
 
 1->2: (start=3, finish=4, pred=1) path=1->2  
 1->3: (start=3, finish=6, pred=2) path=1->2->3  
