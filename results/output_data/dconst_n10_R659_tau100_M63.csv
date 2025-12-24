@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6,7,8,9
+0.0,inf,inf,inf,inf,inf,inf,inf,312.3268970888732,inf
+inf,0.0,inf,inf,inf,inf,inf,inf,inf,inf
+inf,inf,0.0,inf,inf,603.8044968780888,inf,inf,inf,inf
+inf,inf,inf,0.0,inf,inf,inf,inf,inf,inf
+inf,inf,inf,inf,0.0,inf,inf,inf,inf,inf
+inf,inf,603.8044968780888,inf,inf,0.0,inf,inf,inf,inf
+inf,inf,inf,inf,inf,inf,0.0,inf,388.8525865983471,inf
+inf,inf,inf,inf,inf,inf,inf,0.0,inf,inf
+312.3268970888732,inf,inf,inf,inf,inf,388.8525865983471,inf,0.0,inf
+inf,inf,inf,inf,inf,inf,inf,inf,inf,0.0
